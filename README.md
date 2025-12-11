@@ -1,6 +1,6 @@
 # Tally Governance Discord Bot
 
-A Discord bot that monitors governance proposals for projects using Tally, and sends rich alerts to a designated channel.
+A Discord bot that monitors governance proposals for projects using Tally and sends rich alerts to a designated channel.
 
 ## Features
 - Monitors governance proposals in real time via the Tally API (with built‑in rate limiting)
